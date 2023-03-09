@@ -30,7 +30,7 @@ export interface Syntax {
         // return target;
       };
 
-  /** @判断两个人是否为同一个值 Object.is(+0,-0) false; Object.is(NaN,NaN) true*/
+  /** @判断两个人是否为同一个值 Object.is(+0,-0) false; Object.is(NaN,NaN) true */
   is(
     v: any,
     y: any
