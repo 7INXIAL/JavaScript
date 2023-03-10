@@ -1,4 +1,5 @@
 export {};
+
 export interface Syntax {
   /** @调用函数 */
   apply: (

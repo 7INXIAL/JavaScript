@@ -1,4 +1,5 @@
 export {};
+
 export interface Syntax {
   /** @复制多个源对象上的所有可枚举属性到目标对象 */
   assign(

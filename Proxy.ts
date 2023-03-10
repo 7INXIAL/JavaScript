@@ -1,4 +1,5 @@
 export {};
+
 export interface Syntax<T> {
   target: T;
   handler: {
